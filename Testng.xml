@@ -1,0 +1,9 @@
+
+
+<suite name="Testing_Suite">
+	<test name="RegressionTest">
+		<classes>
+			<class name="Runner.RunnerClass" />
+		</classes>
+	</test>
+</suite>
